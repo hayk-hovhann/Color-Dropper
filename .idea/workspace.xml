@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="494bb158-f6a5-412d-9812-83714d0f7635" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/custom.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/easter_wreath-11.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/iconColorPicker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/base64.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/divCircle.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/imageContainer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/liAlphaColor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/liSolidColor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/liSolidWeighted.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/ulElement.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eiffel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.parts.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.parts.js" afterDir="false" />
-    </list>
+    <list default="true" id="494bb158-f6a5-412d-9812-83714d0f7635" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,23 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;064311d1&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.12.2&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.12.14&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/haykhovhann/Desktop/webpack-demo/src/assets/images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/haykhovhann/Desktop/webpack-demo/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "20.12.2",
+    "javascript.nodejs.core.library.typings.version": "20.12.14",
+    "last_opened_file_path": "/Users/haykhovhann/Desktop/webpack-demo/src/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/haykhovhann/Desktop/webpack-demo/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/images" />
@@ -136,6 +113,7 @@
       <workItem from="1721975658626" duration="864000" />
       <workItem from="1721976570802" duration="37302000" />
       <workItem from="1722110388988" duration="9315000" />
+      <workItem from="1722192939380" duration="668000" />
     </task>
     <servers />
   </component>
